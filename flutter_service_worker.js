@@ -638,10 +638,10 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "4bcb55771c1689f95783ecbd2a143018",
-"/": "4bcb55771c1689f95783ecbd2a143018",
+"index.html": "5009596e7be53d22be67b7841f3e9110",
+"/": "5009596e7be53d22be67b7841f3e9110",
 "main.dart.js": "7e9a46012716681c622de7b3dfa87b8f",
-"manifest.json": "8b17efcb50f6b137f5c660ddb0b57391",
+"manifest.json": "65b6888500deae3e272c4218ada1c590",
 "version.json": "1524b53f903b1c326060d5aeb13171cd"
 };
 
